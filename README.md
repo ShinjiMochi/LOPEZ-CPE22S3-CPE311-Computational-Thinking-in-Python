@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">✨ Fixing computers since 2018.<br><br>  📚 I'm currently learning Python, Javascript, C++.<br><br>  🎮Hobbies: I enjoy playing games, mostly racing games or RPG games.<br><br>  🎯 Goals: Pass college with the best I can do.</p>
+<p align="left">✨ Diagnosing computers since 2018.<br><br>  📚 I'm currently expanding my knowledge in Python, Javascript, C++.<br><br>  🎮Hobbies: I enjoy playing games, mostly racing games or RPG games.<br><br>  🎯 Goals: Pass college with the best I can do.</p>
 
 ###
 
