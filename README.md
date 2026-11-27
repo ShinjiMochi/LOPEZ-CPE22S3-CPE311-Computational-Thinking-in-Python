@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img width="450" alt="Stego" src="https://github.com/user-attachments/assets/c31b2fb6-4038-4c16-9fbd-c83ff6aa1588" />
+  <img img width="450" alt="Stego" src="https://github.com/user-attachments/assets/5c6940bf-c4c6-4c61-a171-1a317da35981" />
 </div>
 
 ###
