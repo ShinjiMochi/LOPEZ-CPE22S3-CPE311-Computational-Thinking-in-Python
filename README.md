@@ -19,6 +19,15 @@
 
 ###
 
+<h2 align="left">Currently Listening to:</h2>
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ffeka4qkwj324qwxbf756ba72m)
+
+###
+
+<p align="left">✨ Diagnosing computers since 2018.<br><br>  📚 I'm currently expanding my knowledge in Python, Javascript, C++.<br><br>  🎮Hobbies: I enjoy playing games, mostly racing games or RPG games.<br><br>  🎯 Goals: Pass college with the best I can do.</p>
+
+###
+
 <div align="left">
   <a href="Shinji#6852">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -30,14 +39,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ffeka4qkwj324qwxbf756ba72m)
-
-###
-
-<p align="left">✨ Diagnosing computers since 2018.<br><br>  📚 I'm currently expanding my knowledge in Python, Javascript, C++.<br><br>  🎮Hobbies: I enjoy playing games, mostly racing games or RPG games.<br><br>  🎯 Goals: Pass college with the best I can do.</p>
 
 ###
 
