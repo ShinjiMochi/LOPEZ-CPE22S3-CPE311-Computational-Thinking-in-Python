@@ -19,7 +19,6 @@
 
 ###
 
-<p align="left">Currently Listening to:</p>
   ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ffeka4qkwj324qwxbf756ba72m)
 
 ###
